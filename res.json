@@ -6,9 +6,5 @@
   {
   "url":"https://telegram.org/js/telegram-web-app.js",
   "src":"https://raw.githubusercontent.com/thuydao/telegram-web-app/main/js/telegram-web-app.js"
-},
-  {
-  "url":"https://app.tonboost.app/_nuxt/Dixq1BlR.js",
-  "src":"https://raw.githubusercontent.com/thuydao/telegram-web-app/main/js/tonboost_app_bot.mjs"
 }
 ]
