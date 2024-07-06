@@ -1,7 +1,7 @@
 const __vite__fileDeps = ["./BqWdYxrv.js", "./7_YOngDX.js", "./DlAUqK2U.js", "./invite.CthbUNBL.css", "./BYzyVIqP.js", "./BzuQ8Lcq.js", "./nuxt-icon.D08378P0.css", "./DCWRdhgq.js", "./DRhq7J3K.js", "./VladimirPutin.2RMv5aor.css", "./CzuwLSu2.js", "./DyWAauvE.js", "./DB3meIUA.js", "./error-404.Cs7Z0ZwI.css", "./C-wXHIpK.js", "./error-500.BY691cIp.css"]
   , __vite__mapDeps = i => i.map(i => __vite__fileDeps[i]);
 const global$1 = globalThis || void 0 || self;
-const import_url = "https://app.tonboost.app/_nuxt"
+const import_url = "https://app.tonboost.app/_nuxt/Dixq1BlR.js"
 /**
 * @vue/shared v3.4.27
 * (c) 2018-present Yuxi (Evan) You and Vue contributors
