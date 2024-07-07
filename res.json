@@ -1,18 +1,10 @@
 [
 {
   "url":"https://hamsterkombat.io/js/telegram-web-app.js",
-  "src":"https://raw.githubusercontent.com/thuydao/telegram-web-app/main/js/hamsterkombat.js"
+  "src":"https://cdn.jsdelivr.net/gh/thuydao/telegram-web-app@main/js/hamsterkombat.js"
 },
   {
   "url":"https://telegram.org/js/telegram-web-app.js",
-  "src":"https://raw.githubusercontent.com/thuydao/telegram-web-app/main/js/telegram-web-app.js"
-}, 
-  {
-  "url":"https://app.tonboost.app/_nuxt/Dixq1BlR.js",
-  "src":"https://cdn.jsdelivr.net/gh/thuydao/telegram-web-app@main/js/ton5.js"
-}, 
-  {
-  "url":"https://app.tonboost.app/_nuxt/CAhui9I7.js",
-  "src":"https://cdn.jsdelivr.net/gh/thuydao/telegram-web-app@main/js/ton5.js"
+  "src":"https://cdn.jsdelivr.net/gh/thuydao/telegram-web-app@main/js/telegram-web-app.js"
 }
 ]
